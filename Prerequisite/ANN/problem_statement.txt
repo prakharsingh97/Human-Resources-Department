@@ -1,0 +1,1 @@
+A lot of people are leaving a bank due to certain reasons. The bank is worried by such behaviour . They have hired us to build a model to help them predict the people who have a higher probability to leave . Our model will help them to prevent this .
